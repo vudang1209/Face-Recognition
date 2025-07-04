@@ -1,0 +1,1 @@
+face_encoder.load_weights("./src/facenet_keras_weights.h5")
